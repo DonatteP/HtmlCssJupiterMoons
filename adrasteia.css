@@ -1,0 +1,23 @@
+.h1{
+    text-align: center; color: rgb(223, 6, 6); font-family: lucida sans; background-color: aqua; margin-left: 35%; margin-right: 35%;
+}
+
+.fotoadrasteia{
+    display:block; margin-left: auto; margin-right: auto;
+}
+
+body{
+    background-color: #ff00ff;
+}
+
+h2{
+    text-align: center; color: black; font-family: georgia; font-size: 25px;
+}
+
+p{
+    margin-left: 10%; margin-right: 10%; font-size: larger; font-family: franklin gothic medium;
+}
+
+.oliv{
+    display: block; margin-left: auto; margin-right: auto; border: solid;
+}

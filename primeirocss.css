@@ -1,0 +1,37 @@
+li {
+  color: #00f;
+  font-family: "Franklin Gothic Medium"; font-size: 20px;
+}
+h1 {
+  font-size: 100px; text-align: center; font-family: monospace;
+}
+h1 {
+  background-color: aquamarine;
+}
+body {
+  background-image: url('https://a-static.besthdwallpaper.com/jupiter-wallpaper-3840x2160-2637_54.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h4 {
+  color: #ffffff;
+  border: 20px #00f groove;
+}
+
+h2{
+  color: #ffffff;
+  border: 15px #ff0 groove;
+}
+
+table{
+  border: #ffffff groove 6px; align-content: center;
+}
+
+th{
+  color: black; font-size: 40px; font-family: sans-serif;
+}
+
+.astronauta, .luas{
+  display: inline-block; align-items: center;
+}
