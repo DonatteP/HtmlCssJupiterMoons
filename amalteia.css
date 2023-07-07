@@ -29,6 +29,7 @@ aside{
     padding-left: 150px;
     padding-top: 10px;
     padding-bottom: 0px;
+    border: 20px solid black;
     border-radius: 20px;
     
 }
@@ -38,6 +39,7 @@ aside{
     padding-top: 30px;
     padding-bottom: 0px;
     padding-right: 46px;
+    border: 20px solid black;
     border-radius: 20px;
 }
 
@@ -46,6 +48,7 @@ aside{
     padding-top: 30px;
     padding-bottom: 0px;
     padding-right: 46px;
+    border: 20px solid black;
     border-radius: 20px;
 }
 
